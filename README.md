@@ -75,11 +75,9 @@ The dashboard includes **7 major visualizations**, combined with dynamic **slice
 ## 📷 Dashboard Preview
 
 
-![image](https://github.com/user-attachments/assets/216bc2f3-be37-41e7-88b3-21dd3952c2d6)
+<img width="1370" height="783" alt="Screenshot 2025-07-14 002739" src="https://github.com/user-attachments/assets/99c23ff8-f173-4ff8-a8c1-3033b139159f" />
 
-![image](https://github.com/user-attachments/assets/7a7410d2-4cb3-4a20-8f1b-78a419be71af)
-
-![image](https://github.com/user-attachments/assets/345e168a-3f3d-423d-88f2-9508e1b1b116)
+<img width="1375" height="793" alt="Screenshot 2025-07-14 002748" src="https://github.com/user-attachments/assets/a061e08d-2931-4726-8fd6-1befec5fa945" />
 
 
 
